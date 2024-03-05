@@ -12,5 +12,6 @@ routerDetallePedido.get('/productosPedido/:pedidoID',getDetallePedidosClientes)
 //etñfgokrpot
 //ejrngkjureuh
 //DON!
+//richipiniaaa
 //jujussssss
 export default routerDetallePedido
