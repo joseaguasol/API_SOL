@@ -8,7 +8,7 @@ routerDetallePedido.post('/detallepedido',createDetalle)
 routerDetallePedido.get('/detallepedido',getDetalles)
 routerDetallePedido.get('/detallepedido/:pedidoID',getDetallePedidoXPedidos)
 routerDetallePedido.get('/productosPedido/:pedidoID',getDetallePedidosClientes)
-
+//ERIUGFIERGIHERIGHEIRUHI
 //etñfgokrpot
 //ejrngkjureuh
 //DON!
